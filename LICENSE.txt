@@ -1,0 +1,13 @@
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+Copyright (c) [2024] [Daniel Kaupa, Xingyu Liu, Vadim Malz, Joe Najem, Aditi Srivastava, Haitong Wang, Zewei Zhang, Xiaorui Zhou]
+
+You are free to:
+- Share: Copy, distribute, and transmit the work.
+- Adapt: Remix, transform, and build upon the work.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- For educational and research purposes: The work is provided with the understanding that it is intended for academic, educational, and research use.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/
